@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/alexandragrosul/bootstrap/issues"
   },
-  "homepage": "https://github.com/alexandragrosul/bootstrap#readme"
+  "homepage": "https://github.com/alexandragrosul/bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "bootstrap-icons": "^1.9.1"
+  }
 }
