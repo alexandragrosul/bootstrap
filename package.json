@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "website with bootstrap",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandragrosul/bootstrap.git"
+  },
+  "author": "alexandra  grosul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandragrosul/bootstrap/issues"
+  },
+  "homepage": "https://github.com/alexandragrosul/bootstrap#readme"
+}
